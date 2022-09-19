@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Profitable Tour Problem</description>
+	<configs>
+		<config default="true" name="Configuration1" category="opl">
+			<ref name="CplexExercise.mod" type="model">
+			</ref>
+			<ref name="CplexExercise.ops" type="setting">
+			</ref>
+			<ref name="CplexExercise.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="Configuration2" category="opl">
+			<ref name="Epsilon.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

@@ -1,0 +1,525 @@
+epsilon:125.790271043
+pareto z1:178, pareto z2:101.348297273
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        2.84217e-14  2.84217e-14
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 0 0 1 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 6 5 3 2 8 4 7 9 10];
+
+epsilon:120.127754301
+pareto z1:178, pareto z2:93.548514295
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        1.06581e-14  1.06581e-14
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 1 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 5 2 9 8 4 6 3 7 10];
+
+epsilon:114.465237559
+pareto z1:178, pareto z2:108.76931947
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        1.42109e-14  1.42109e-14
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 0 0 1 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 7 2 9 3 5 4 6 8 10];
+
+epsilon:108.802720817
+pareto z1:178, pareto z2:106.430989598
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        6.21725e-15  6.21725e-15
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 1 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 5 3 9 4 6 8 2 7 10];
+
+epsilon:103.140204075
+pareto z1:178, pareto z2:95.612838088
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        3.55271e-15  3.55271e-15
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 1 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 6 3 4 8 5 2 7 9 10];
+
+epsilon:97.477687333
+pareto z1:178, pareto z2:93.196783166
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        8.88178e-16  8.88178e-16
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 0 0 0 0 0 1 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 0 0 1 0 0 0 0 0]
+             [0 0 1 0 0 0 0 0 0 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 3 9 4 6 5 8 2 7 10];
+
+epsilon:91.815170591
+pareto z1:178, pareto z2:72.420724074
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        1.77636e-14  1.06581e-14
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 1 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 4 2 3 7 6 8 5 9 10];
+
+epsilon:86.15265385
+pareto z1:178, pareto z2:82.463712067
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        1.33227e-14  1.33227e-14
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 0 0 0 0 0 1 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 1 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 5 3 6 7 4 9 2 8 10];
+
+epsilon:80.490137108
+pareto z1:178, pareto z2:76.311998434
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        1.33227e-14  1.33227e-14
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 0 0 0 1 0 0 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 1 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 6 4 7 3 2 8 5 9 10];
+
+epsilon:74.827620366
+pareto z1:178, pareto z2:70.845586313
+// solution (optimal) with objective 178
+// Quality Incumbent solution:
+// MILP objective                                 1.7800000000e+02
+// MILP solution norm |x| (Total, Max)            6.30000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        9.76996e-15  9.76996e-15
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 1 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 6 2 7 3 4 8 5 9 10];
+
+epsilon:69.165103624
+pareto z1:166, pareto z2:66.45938215
+// solution (optimal) with objective 166
+// Quality Incumbent solution:
+// MILP objective                                 1.6600000000e+02
+// MILP solution norm |x| (Total, Max)            5.70000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        0.00000e+00  0.00000e+00
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 4 2 3 2 6 9 5 8 10];
+
+epsilon:63.502586882
+pareto z1:166, pareto z2:57.400479835
+// solution (optimal) with objective 166
+// Quality Incumbent solution:
+// MILP objective                                 1.6600000000e+02
+// MILP solution norm |x| (Total, Max)            5.60000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        4.44089e-15  4.44089e-15
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 5 2 6 2 3 7 4 9 10];
+
+epsilon:57.84007014
+pareto z1:166, pareto z2:57.400479835
+// solution (optimal) with objective 166
+// Quality Incumbent solution:
+// MILP objective                                 1.6600000000e+02
+// MILP solution norm |x| (Total, Max)            5.50000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        4.44089e-15  4.44089e-15
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 1 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 5 2 6 2 3 7 4 8 10];
+
+epsilon:52.177553398
+pareto z1:151, pareto z2:48.724620068
+// solution (optimal) with objective 151
+// Quality Incumbent solution:
+// MILP objective                                 1.5100000000e+02
+// MILP solution norm |x| (Total, Max)            5.20000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        1.15463e-14  1.15463e-14
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 2 2 5 2 3 9 4 8 10];
+
+epsilon:46.515036656
+pareto z1:151, pareto z2:45.335496725
+// solution (optimal) with objective 151
+// Quality Incumbent solution:
+// MILP objective                                 1.5100000000e+02
+// MILP solution norm |x| (Total, Max)            4.80000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        7.99361e-15  2.66454e-15
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 2 2 5 2 3 6 4 7 10];
+
+epsilon:40.852519914
+pareto z1:134, pareto z2:36.744401177
+// solution (optimal) with objective 134
+// Quality Incumbent solution:
+// MILP objective                                 1.3400000000e+02
+// MILP solution norm |x| (Total, Max)            4.50000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        2.66454e-15  2.66454e-15
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 1 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 2 2 5 2 3 9 4 2 10];
+
+epsilon:35.190003172
+pareto z1:128, pareto z2:32.12954465
+// solution (optimal) with objective 128
+// Quality Incumbent solution:
+// MILP objective                                 1.2800000000e+02
+// MILP solution norm |x| (Total, Max)            4.20000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        8.88178e-16  8.88178e-16
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 1 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 2 2 4 2 2 5 3 6 10];
+
+epsilon:29.52748643
+pareto z1:111, pareto z2:27.177744265
+// solution (optimal) with objective 111
+// Quality Incumbent solution:
+// MILP objective                                 1.1100000000e+02
+// MILP solution norm |x| (Total, Max)            4.10000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        8.88178e-16  8.88178e-16
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 2 3 4 2 2 9 2 2 10];
+
+epsilon:23.864969688
+pareto z1:111, pareto z2:23.538449101
+// solution (optimal) with objective 111
+// Quality Incumbent solution:
+// MILP objective                                 1.1100000000e+02
+// MILP solution norm |x| (Total, Max)            3.70000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        2.66454e-15  2.66454e-15
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 1 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 2 2 4 2 2 5 3 2 10];
+
+epsilon:18.202452946
+pareto z1:91, pareto z2:17.323518676
+// solution (optimal) with objective 91
+// Quality Incumbent solution:
+// MILP objective                                 9.1000000000e+01
+// MILP solution norm |x| (Total, Max)            3.80000e+01  1.00000e+01
+// MILP solution error (Ax=b) (Total, Max)        2.22045e-15  2.22045e-15
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 1 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 1 0 0 0 0 0 0]
+             [0 0 0 0 0 0 1 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 2 2 3 2 2 9 2 2 10];
+
+epsilon:12.539936204
+pareto z1:10, pareto z2:12.539936204
+// solution (optimal) with objective 10
+// Quality Incumbent solution:
+// MILP objective                                 1.0000000000e+01
+// MILP solution norm |x| (Total, Max)            1.90000e+01  2.00000e+00
+// MILP solution error (Ax=b) (Total, Max)        0.00000e+00  0.00000e+00
+// MILP x bound error (Total, Max)                0.00000e+00  0.00000e+00
+// MILP x integrality error (Total, Max)          0.00000e+00  0.00000e+00
+// MILP slack bound error (Total, Max)            0.00000e+00  0.00000e+00
+// 
+
+x = [[0
+             0 0 0 0 0 0 0 0 1]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]
+             [0 0 0 0 0 0 0 0 0 0]];
+u = [2 2 2 2 2 2 2 2 2 2];
+

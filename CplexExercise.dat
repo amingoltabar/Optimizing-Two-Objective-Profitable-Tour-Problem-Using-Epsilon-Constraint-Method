@@ -1,0 +1,19 @@
+/*********************************************
+ * OPL 12.9.0.0 Data
+ * Author: Mirza
+ * Creation Date: Apr 1, 2021 at 10:55:01 PM
+ *********************************************/
+// data
+ epsilon = [ 0.001  0.001 ];
+ teta =[1 0];
+ M = [ 0  0 ];
+ 
+ SheetConnection sheet1("Data_POP.xlsx");
+ numNodes from SheetRead(sheet1,"numNodes");
+ Score from SheetRead(sheet1,"s");
+ cor_x from SheetRead(sheet1,"x");
+ cor_y from SheetRead(sheet1,"y");
+ 
+ 
+ 
+
